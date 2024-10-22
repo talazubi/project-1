@@ -1,5 +1,5 @@
 # project-1
-The following repository is for our Data Analytics Bootcamp Project 1, regarding the stroke prediction dataset with visualizations created for the following reseaching questions  Does higher age increase the risk of stroke? , How do different types of work (Private, Self-employed, Govt_job, Never _worked) affect stroke risk?(Visualization 1) and Does living in an urban or rural area affect stroke likelihood?(Visualization 1).
+The following repository is for our Data Analytics Bootcamp Project 1, regarding the stroke prediction dataset with visualizations created for the following research questions: Does higher age increase the risk of stroke? , How do different types of work (Private, Self-employed, Govt_job, Never _worked) affect stroke risk?(Visualization 1) and Does living in an urban or rural area affect stroke likelihood?(Visualization 1).
 
 
 
