@@ -1,6 +1,6 @@
 # Stroke Dataset Analysis
 # Overview
-This study involves a thorough investigation of healthcare dataset in order to identify important risk factors related to stroke. Using Python tools, including pandas and matplotlib, were used to evaluate and show correlations between critical health markers such as smokering, hypertension, heart disease, work type, residence type, BMI, glucose levels, and stroke occurrences. 
+This study involves a thorough investigation of healthcare dataset in order to identify important risk factors related to stroke. Using Python tools, including pandas and matplotlib, were used to evaluate and show correlations between critical health markers such as smoking, hypertension, heart disease, work type, residence type, BMI, glucose levels, and stroke occurrences. 
 The analysis aimed to deepen our understanding of how specific health factors, that was mentioned above, influence stroke risk across different groups. The findings provide valuable insights that may be used to guide public health efforts and medical therapies for stroke prevention. 
 
 # Dataset
